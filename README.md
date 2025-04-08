@@ -7,6 +7,7 @@ A Spring Boot-based Employee Management System that supports CRUD operations, de
 ## 📸 Screenshot
 
 ![UI Preview](https://github.com/Jimmyvrushabh/EmployManagement/blob/main/EmployManagement/poto/Screenshot%20(676).png)
+![UI Preview](https://github.com/Jimmyvrushabh/EmployManagement/blob/main/EmployManagement/poto/Screenshot%20(677).png)
 
 ---
 
